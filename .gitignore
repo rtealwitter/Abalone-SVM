@@ -1,0 +1,7 @@
+6.train
+6.test
+6scaled.train
+6scaled.test
+6.model
+libsvm-3.24
+.DS_Store
